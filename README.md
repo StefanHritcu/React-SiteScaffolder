@@ -1,7 +1,7 @@
 <h1>⚛️ React-SiteScaffolder</h1>
 
 <p>
-  Ciao! Mi chiamo <strong>[TUO NOME]</strong>, e <strong>React-SiteScaffolder</strong> è il risultato di oltre un anno di esperienza nel creare applicazioni web e siti in React. Mi sono reso conto che molti progetti partono con la stessa base: un <strong>header</strong>, un <strong>footer</strong>, una <strong>sidebar</strong>, e una struttura di layout comune.
+  Ciao! Mi chiamo <strong>Stefano</strong>, e <strong>React-SiteScaffolder</strong> è il risultato di oltre un anno di esperienza nel creare applicazioni web e siti in React. Mi sono reso conto che molti progetti partono con la stessa base: un <strong>header</strong>, un <strong>footer</strong>, una <strong>sidebar</strong>, e una struttura di layout comune.
 </p>
 
 <p>
